@@ -18,13 +18,15 @@ kopiert von [offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werk
 # Zeitstrahl
 
 ## 2023-12-13 Schulung + Setup
+* 16:30 zweite Schulung
 * fabaccess[ät]35services[punkt]in-berlin[punkt]de angelegt
+* Falko hat Damian, Patrick, Billy, Arne, Tobias, Ploenne direkt angefragt
 
 ## 2023-12-12 erste Schulung
 * Falko war dabei
 * Es wird eine Aufzeichnung geben
 * Matrix angefragt
 
-## 2023-12-07 Zusagen
-* wir bekommen unsere Zusage
+## 2023-12-07 Wir sind dabei 
+* wir bekommen unsere Zusage - Yipee
 * https://www.offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werkstaetten
