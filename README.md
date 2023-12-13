@@ -4,7 +4,9 @@ Unser Fabaccess setup
 ## Kommunikation
 
 > Es gibt einen Matrix-Space und eine Telegram-Gruppe zum Austausch für Interessierte und Projekte, die das System testen wollen.
-> Matrix-Space beitreten: #fabaccess:vow.chat
+
+> Matrix-Space beitreten: [#fabaccess:vow.chat](https://app.element.io/#/room/#fabaccess:vow.chat)
+
 > Telegram-Gruppe beitreten: https://t.me/joinchat/Ly6Y3VODsQAlzHdt2D8RlQ
 
 kopiert von [offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werkstaetten](https://www.offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werkstaetten)
