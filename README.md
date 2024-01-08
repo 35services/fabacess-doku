@@ -19,6 +19,7 @@ kopiert von [offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werk
 
 ## 2024-01-08 Falko baut lokal ein MQTT/testsetup
 * https://fab-access.readthedocs.io/en/v0.3/installation/server_docker.html
+  * erster PR https://gitlab.com/fabinfra/fabaccess/docs/-/merge_requests/6
 
 
 ## 2023-12-13 Schulung + Setup
