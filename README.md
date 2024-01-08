@@ -17,6 +17,10 @@ kopiert von [offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werk
 
 # Zeitstrahl
 
+## 2024-01-08 Falko baut lokal ein MQTT/testsetup
+* https://fab-access.readthedocs.io/en/v0.3/installation/server_docker.html
+
+
 ## 2023-12-13 Schulung + Setup
 * 16:30 zweite Schulung
 * fabaccess[ät]35services[punkt]in-berlin[punkt]de angelegt [admin](https://mailman.35services.in-berlin.de/mailman/listinfo/fabaccess-35services.in-berlin.de)
