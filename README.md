@@ -17,8 +17,9 @@ kopiert von [offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werk
 
 # Zeitstrahl
 
-##204-05-24 
+## 204-05-24 
 
+trying to install fabaccess
 ```
  git clone https://gitlab.com/fabinfra/fabaccess/dockercompose.git fabaccess-server
  cd Documents/mosquitto/fabaccess-server
@@ -34,8 +35,27 @@ kopiert von [offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werk
 ```
 https://intux.de/2023/03/03/docker-und-docker-compose-auf-dem-raspberrypi/
 `docker-compose` fehlt
-https://dev.to/elalemanyo/how-to-install-docker-and-docker-compose-on-raspberry-pi-1mo
 https://fab-access.readthedocs.io/en/v0.3/installation/server_docker.html
+
+ folling https://dev.to/elalemanyo/how-to-install-docker-and-docker-compose-on-raspberry-pi-1mo :
+confirming
+```
+groups ${USER}                    
+35services : 35services adm dialout cdrom sudo audio video plugdev games users input render netdev spi i2c gpio lpadmin docker
+```
+install docker-compose
+```
+sudo apt-get install libffi-dev libssl-dev
+sudo apt install python3-dev
+sudo apt-get install -y python3 python3-pip
+~~sudo pip3 install docker-compose~~
+sudo systemctl enable docker
+```
+
+https://dev.to/elalemanyo/how-to-install-docker-and-docker-compose-on-raspberry-pi-1mo hilft auch nur bedingt
+`apt install docker-compose` hat funktioniert
+reboot
+
 
 **tried to generate a config:**
 ```
