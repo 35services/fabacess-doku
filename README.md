@@ -76,6 +76,9 @@ git pull falko main
 ```
 mosquito config [versucht zu öffnen](https://gitlab.com/volkersfreunde/dockercompose/-/blob/main/config/mosquitto/mosquitto.conf?ref_type=heads)
 
+### shelly config (offen)
+* https://fab-access.readthedocs.io/en/v0.3/usage/setup_steps.html
+
 
 
 ## 2024-01-08 Falko baut lokal ein MQTT/testsetup
