@@ -1,6 +1,8 @@
 # fabacess-doku
 Unser Fabaccess setup
 
+Unter https://github.com/falkorichter/mqtt-learnings dokumentiert Falko Dinge die er über MQTT lernt.
+
 ## Kommunikation
 
 > Es gibt einen Matrix-Space und eine Telegram-Gruppe zum Austausch für Interessierte und Projekte, die das System testen wollen.
