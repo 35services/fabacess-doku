@@ -14,6 +14,7 @@ kopiert von [offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werk
 ### 35services intern
 * fabaccess[ät]35services[punkt]in-berlin[punkt]de
 * [Slack Kanal](https://35services.slack.com/archives/C069XFDTC9G) (intern bei 35services.slack.com)
+* [google doc](https://docs.google.com/document/d/1mZ4q9aeXbiIsVolyeHUPPtWCRi8ltKP_bN-eaYpCWPk/edit) ist privat und hat auch passwörter für unser lokales setup
 
 # Zeitstrahl
 
