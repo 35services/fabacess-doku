@@ -19,7 +19,7 @@ kopiert von [offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werk
 
 ##204-05-24 
 
-´´´
+```
  git clone https://gitlab.com/fabinfra/fabaccess/dockercompose.git fabaccess-server
  cd Documents/mosquitto/fabaccess-server
  git clone https://gitlab.com/fabinfra/fabaccess/dockercompose
@@ -31,7 +31,30 @@ kopiert von [offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werk
   docker start mynodered
 
   mkdir node_red_data
-´´´
+```
+https://intux.de/2023/03/03/docker-und-docker-compose-auf-dem-raspberrypi/
+`docker-compose` fehlt
+https://dev.to/elalemanyo/how-to-install-docker-and-docker-compose-on-raspberry-pi-1mo
+https://fab-access.readthedocs.io/en/v0.3/installation/server_docker.html
+
+**tried to generate a config:**
+```
+docker run registry.gitlab.com/fabinfra/fabaccess/bffh:dev-latest --print-default                       
+Unable to find image 'registry.gitlab.com/fabinfra/fabaccess/bffh:dev-latest' locally
+dev-latest: Pulling from fabinfra/fabaccess/bffh
+dc1f00a5d701: Pull complete 
+7f489e95c7bd: Pull complete 
+Digest: sha256:98f3dccf61f2a8301a2f50705536e9433c1284901113d7e1fc2fcc4106d0c4d0
+Status: Downloaded newer image for registry.gitlab.com/fabinfra/fabaccess/bffh:dev-latest
+```
+with error
+```
+thread 'main' panicked at 'called `Result::unwrap()` on an `Err` value: Error(Dhall(Error { kind: IO(Os { code: 2, kind: NotFound, message: "No such file or directory" }) }))', bin/bffhd/main.rs:119:76
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+thread 'main' panicked at 'called `Result::unwrap()` on an `Err` value: Error(Dhall(Error { kind: IO(Os { code: 2, kind: NotFound, message: "No such file or directory" }) }))', bin/bffhd/main.rs:119:76
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+```
+
 
 ## 2024-01-08 Falko baut lokal ein MQTT/testsetup
 * https://fab-access.readthedocs.io/en/v0.3/installation/server_docker.html
