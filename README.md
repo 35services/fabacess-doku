@@ -17,6 +17,22 @@ kopiert von [offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werk
 
 # Zeitstrahl
 
+##204-05-24 
+
+´´´
+ git clone https://gitlab.com/fabinfra/fabaccess/dockercompose.git fabaccess-server
+ cd Documents/mosquitto/fabaccess-server
+ git clone https://gitlab.com/fabinfra/fabaccess/dockercompose
+ fabaccess-server
+
+ docker start mynodered --help --restart
+  docker update --restart unless-stopped mynodered
+  docker start mynodered --help 
+  docker start mynodered
+
+  mkdir node_red_data
+´´´
+
 ## 2024-01-08 Falko baut lokal ein MQTT/testsetup
 * https://fab-access.readthedocs.io/en/v0.3/installation/server_docker.html
   * erster PR https://gitlab.com/fabinfra/fabaccess/docs/-/merge_requests/6
