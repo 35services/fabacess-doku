@@ -11,3 +11,8 @@ MQTT Fallback Topic	cmnd/DVES_8365AF_fb/
 MQTT No Retain	Disabled
 ```
 
+## how to connect 
+* plug in
+* connect to wifi:
+*  ![](001_find_wifi.png)
+*  
