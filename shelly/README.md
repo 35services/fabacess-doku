@@ -1,3 +1,5 @@
+* we got 8 `Tasmota Steckdose NOUS A1T` [plugs](https://www.amazon.de/Tasmota-Steckdose-NOUS-A1T-stromverbrauch/dp/B0054PSI46/r) as part of the fabaccess programm
+
 ## how to connect 
 * plug in
 * connect to wifi:
