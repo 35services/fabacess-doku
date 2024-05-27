@@ -85,7 +85,7 @@ note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
 
 ### config changes
 https://gitlab.com/volkersfreunde/dockercompose habe ich geforkt
-``
+```
 git remote add falko https://gitlab.com/volkersfreunde/dockercompose.git
 git pull falko main
 ```
@@ -93,7 +93,7 @@ mosquito config [versucht zu öffnen](https://gitlab.com/volkersfreunde/dockerco
 
 ### shelly config (offen)
 * https://fab-access.readthedocs.io/en/v0.3/usage/setup_steps.html
-
+   * namen https://www.ranker.com/list/famous-engineers-from-germany/reference
 
 
 ## 2024-01-08 Falko baut lokal ein MQTT/testsetup
