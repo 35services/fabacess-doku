@@ -21,13 +21,17 @@ kopiert von [offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werk
 # Zeitstrahl
 
 ## 204-05-27 
-* Tailscale installiert https://tailscale.com/kb/1028/key-expiry
+* Tailscale installiert https://tailscale.com/
   * wow ist das geil!
   * it just works
   * mqtt server ist aus der Ferne erreichbar
      * tested on MacOSX, Android, Raspberry Pi
   * Pi key läuft nicht ab [key-expiry](https://tailscale.com/kb/1028/key-expiry)
-* https://tailscale.com/kb/1281/app-connectors ist vielleicht spannend? 
+* https://tailscale.com/kb/1281/app-connectors ist vielleicht spannend?
+
+* https://github.com/wg-easy/wg-easy wurde empfohlen
+* habe einfach https://tailscale.com/ geklickt
+* protokoll ist [wireguard.com](https://www.wireguard.com/)
 
 ## 204-05-24 
 
