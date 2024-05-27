@@ -15,4 +15,5 @@ MQTT No Retain	Disabled
 * plug in
 * connect to wifi:
 *  ![](001_find_wifi.png)
-*  
+*  open [http://192.168.4.1/](http://192.168.4.1/)
+
