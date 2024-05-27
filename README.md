@@ -20,6 +20,14 @@ kopiert von [offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werk
 
 # Zeitstrahl
 
+## 204-05-27 
+* Tailscale installiert https://tailscale.com/kb/1028/key-expiry
+  * wow ist das geil!
+  * it just works
+  * mqtt server ist aus der Ferne erreichbar
+     * tested on MacOSX, Android, Raspberry Pi
+  * Pi key läuft nicht ab [key-expiry](https://tailscale.com/kb/1028/key-expiry) 
+
 ## 204-05-24 
 
 trying to install fabaccess
