@@ -6,3 +6,5 @@ docker run -d \
   --env TZ=Europe/Bucharest \
   --volume /home/35services/Documents/homebox:/data \
   ghcr.io/hay-kot/homebox:latest
+exit
+open http://100.87.46.76:3100/
