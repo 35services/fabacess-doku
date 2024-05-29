@@ -1,3 +1,5 @@
+follow https://hay-kot.github.io/homebox/quick-start/
+
 chown 65532:65532 -R /home/35services/Documents/homebox
 docker run -d \
   --name homebox \
