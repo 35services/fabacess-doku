@@ -28,11 +28,11 @@ Maximilian Voigt (`ma vo`): VOW-Element [@ma.mo:vow.chat](@ma.mo) Mail max@offen
 Joseph [@thejoklla](@thejoklla:matrix.org)
 
 ### 35services bei Matrix
-@tooooooobi:matrix.org -> Tobi
-@patrick35services:matrix.org -> Patrick
-@volkersfreunde:matrix.org -> Falko
-@thulduro:matrix.org -> Alf
-@EojjN:matrix.org -> AJ (Alexander-Joseph Pidgeon)
+* @tooooooobi:matrix.org -> Tobi
+* @patrick35services:matrix.org -> Patrick
+* @volkersfreunde:matrix.org -> Falko
+* @thulduro:matrix.org -> Alf
+* @EojjN:matrix.org -> AJ (Alexander-Joseph Pidgeon)
 
 
 
