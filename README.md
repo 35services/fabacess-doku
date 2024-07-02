@@ -10,6 +10,7 @@ Unter https://github.com/falkorichter/mqtt-learnings dokumentiert Falko Dinge di
 > Bei allen Aufgaben stehen euch die Entwickler*innen von FabAccess mit Rat und Tat zur Seite
 > Falls die Werkstätten für bestimmte Aktoren (z.B. CNC-Maschinen) Plug-ins benötigen, um sie an FabAccess anzubinden, programmiert das FabAccess-Team sie für sie.
 > 10 Werkstätten bekommen 1000€ für Honorar und Hardware im Wert von 1000€
+
 [35services hat gewonnen](https://offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werkstaetten#:~:text=DAS%20BEKOMMEN%20DIE%20WERKST%C3%84TTEN%20VON%20UNS%3A)
 
 ## Kommunikation
