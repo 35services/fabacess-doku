@@ -3,6 +3,15 @@ Unser Fabaccess setup
 
 Unter https://github.com/falkorichter/mqtt-learnings dokumentiert Falko Dinge die er über MQTT lernt.
 
+# Was ist das und warum ist das bei 35services
+
+> DAS BEKOMMEN DIE WERKSTÄTTEN VON UNS:
+> 
+> Bei allen Aufgaben stehen euch die Entwickler*innen von FabAccess mit Rat und Tat zur Seite
+> Falls die Werkstätten für bestimmte Aktoren (z.B. CNC-Maschinen) Plug-ins benötigen, um sie an FabAccess anzubinden, programmiert das FabAccess-Team sie für sie.
+> 10 Werkstätten bekommen 1000€ für Honorar und Hardware im Wert von 1000€
+[35services hat gewonnen](https://offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werkstaetten#:~:text=DAS%20BEKOMMEN%20DIE%20WERKST%C3%84TTEN%20VON%20UNS%3A)
+
 ## Kommunikation
 
 > Es gibt einen Matrix-Space und eine Telegram-Gruppe zum Austausch für Interessierte und Projekte, die das System testen wollen.
@@ -12,6 +21,23 @@ Unter https://github.com/falkorichter/mqtt-learnings dokumentiert Falko Dinge di
 > Telegram-Gruppe beitreten: https://t.me/joinchat/Ly6Y3VODsQAlzHdt2D8RlQ
 
 kopiert von [offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werkstaetten](https://www.offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werkstaetten)
+
+### unsere Ansprechpartner
+
+Maximilian Voigt (`ma vo`): VOW-Element [@ma.mo:vow.chat](@ma.mo) Mail max@offene-werkstaetten.org
+Joseph [@thejoklla](@thejoklla:matrix.org)
+
+### 35services bei Matrix
+@tooooooobi:matrix.org -> Tobi
+@patrick35services:matrix.org -> Patrick
+@volkersfreunde:matrix.org -> Falko
+@thulduro:matrix.org -> Alf
+@EojjN:matrix.org -> AJ (Alexander-Joseph Pidgeon)
+
+
+
+
+
 
 ### 35services intern
 * fabaccess[ät]35services[punkt]in-berlin[punkt]de
