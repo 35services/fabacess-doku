@@ -25,8 +25,9 @@ kopiert von [offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werk
 
 ### unsere Ansprechpartner
 
-Maximilian Voigt (`ma vo`): VOW-Element [@ma.mo:vow.chat](@ma.mo) Mail max@offene-werkstaetten.org
-Joseph [@thejoklla](@thejoklla:matrix.org)
+Maximilian Voigt (Hauptansprechpartner) (`ma vo`): VOW-Element [@ma.mo:vow.chat](@ma.mo) Mail max@offene-werkstaetten.org
+Joseph (Technik, Software, Hardware) [@thejoklla](@thejoklla:matrix.org) josephlangosch[ät]posteo[punkt]de
+
 
 ### 35services bei Matrix
 * @tooooooobi:matrix.org -> Tobi
