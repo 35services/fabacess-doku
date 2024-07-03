@@ -23,6 +23,11 @@ Unter https://github.com/falkorichter/mqtt-learnings dokumentiert Falko Dinge di
 
 kopiert von [offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werkstaetten](https://www.offene-werkstaetten.org/de/seite/ein-zugangssystem-fuer-offene-werkstaetten)
 
+## Dokumentation / Links
+
+* https://cloud.offene-werkstaetten.org/s/GwRDK6mq3giZXCC die `Laufende Dokumentation im Projekt FabAccess`
+* 
+
 ### unsere Ansprechpartner
 
 Maximilian Voigt (Hauptansprechpartner) (`ma vo`): VOW-Element [@ma.mo:vow.chat](@ma.mo:vow.chat) Mail max@offene-werkstaetten.org
